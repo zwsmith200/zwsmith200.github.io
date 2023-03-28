@@ -5,12 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+9. Mrinal Shekhar, **Zachary Smith**, Markus Seeliger, and Pratyush Tiwary. *Protein flexibility and dissociation pathway differentiation can explain onset of resistance mutations in kinases* [**Hot paper** in Angewandte Chemie](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202200983) (134), e202200983, 2022.
+8. **Zachary Smith**, and Pratyush Tiwary. *Making high-dimensional molecular distribution functions tractable through Belief Propagation on Factor Graphs* [The Journal of Physical Chemistry B](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c05717) 125 (40), 11150-11158, 2021.
+7. Sun-Ting Tsai, **Zachary Smith**, and Pratyush Tiwary. *SGOOP-d: Estimating kinetic distances and reaction coordinate dimensionality for rare event systems from biased/unbiased simulations* [Journal of Chemical Theory and Computation](https://pubs.acs.org/doi/10.1021/acs.jctc.1c00431) 17 (11), 6757-6765, 2021.
+6. Shashank Pant, **Zachary Smith**, Yihang Wang, Emad Tajkhorshid, and Pratyush Tiwary. *Confronting pitfalls of AI-augmented molecular dynamics using statistical physics* [**Editor's choice, featured article, and cover** of The Journal of Chemical Physics](https://aip.scitation.org/doi/10.1063/5.0030931) 153 (23): 234118, 2020.
+5. **Zachary Smith**, Pavan Ravindra, Yihang Wang, Rory Cooley, Pratyush Tiwary. *Discovering Protein Conformational Flexibility through Artificial-Intelligence-Aided Molecular Dynamics* [Machine Learning in Physical Chemistry **special issue** of The Journal of Physical Chemistry B](https://pubs.acs.org/doi/10.1021/acs.jpcb.0c03985) 124 (38): 8221-8229, 2020.
+4. **Zachary Smith**, Pavan Ravindra,  Pratyush Tiwary. *Automatic mutual information noise omission (AMINO): generating order parameters for molecular systems* [Emerging Investigators **special issue** of Molecular Systems Design & Engineering](https://pubs.rsc.org/en/content/articlehtml/2020/me/c9me00115h) 5 (1): 339-348, 2020.
+3. Sun-Ting Tsai, **Zachary Smith**, Pratyush Tiwary. *Reaction coordinates and rate constants for liquid droplet nucleation: Quantifying the interplay between driving force and memory* [The Journal of Chemical Physics](https://aip.scitation.org/doi/10.1063/1.5124385) 151 (15): 154106, 2019.   
+2. Debabrata Pramanik, **Zachary Smith**, Adam Kells, Pratyush Tiwary. *Can One Trust Kinetic and Thermodynamic Observables from Biased Metadynamics Simulations?: Detailed Quantitative Benchmarks on Millimolar Drug Fragment Dissociation* [The Journal of Physical Chemistry B](https://pubs.acs.org/doi/10.1021/acs.jpcb.9b01813) 123 (17): 3672-3678, 2019.
+1. **Zachary Smith**, Debabrata Pramanik, Sun-Ting Tsai, Pratyush Tiwary. *Multi-dimensional spectral gap optimization of order parameters (SGOOP) through conditional probability factorization* [Markov Models of Molecular Kinetics **special issue** of The Journal of Chemical Physics](https://aip.scitation.org/doi/10.1063/1.5064856) 149 (23): 234105, 2018.
+{: reversed="reversed"}
