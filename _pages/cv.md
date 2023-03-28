@@ -12,9 +12,9 @@ redirect_from:
 Education
 =========
 - 2018 – 2023    Current student at The University of Maryland, College Park
-		Ph.D. expected spring 2023
+  - Ph.D. in Biophysics expected spring 2023
 - 2013 – 2017    Johns Hopkins University, Krieger School of Arts & Sciences
-Bachelor of Arts, Biophysics
+  - Bachelor of Arts, Biophysics
 
 Research Interests
 ==================
