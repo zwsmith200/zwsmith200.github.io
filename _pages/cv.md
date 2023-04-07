@@ -68,9 +68,10 @@ Students Mentored
 Invited Talks
 =============
 1. iPoLS meeting "Understanding Drug Resistance through Molecular Simulation", Montpellier, France (June 2022)
-2. UMD Biochemistry seminar "From atoms to pathways: Automated sampling of ligand dissociation and protein conformational change", College Park, Maryland (February 2021)
-3. PoLS student talks "From atoms to pathways: automated protein conformational sampling with AMINO and RAVE", College Park, Maryland (December 2019)
-4. iPols meeting "Why was Gleevec unsuccessful? Investigating Abl Kinase drug binding through SGOOP and metadynamics", Munich, Germany (July 2019)
+2. BPS networking event on Computational Methods for Biomolecular Kinetics "Predicting drug dissociation kinetics and pathways through reaction coordinate optimization", Virtual, (September 2021)
+3. UMD Biochemistry seminar "From atoms to pathways: Automated sampling of ligand dissociation and protein conformational change", College Park, Maryland (February 2021)
+4. PoLS student talks "From atoms to pathways: automated protein conformational sampling with AMINO and RAVE", College Park, Maryland (December 2019)
+5. iPols meeting "Why was Gleevec unsuccessful? Investigating Abl Kinase drug binding through SGOOP and metadynamics", Munich, Germany (July 2019)
 
 Teaching Experience
 ===================
