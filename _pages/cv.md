@@ -65,6 +65,11 @@ Students Mentored
   - Previously a student in Computer Science at Maryland
   - Currently pursuing a Ph.D. in Computer Science at UC Riverside
 
+Invited Talks
+=============
+1. Invited talk at iPoLS meeting "Understanding Drug Resistance through Molecular Simulation", Montpellier, France (June 2022)
+2. Invited talk at iPols meeting "Why was Gleevec unsuccessful? Investigating Abl Kinase drug binding through SGOOP and metadynamics", Munich, Germany (July 2019)
+
 Teaching Experience
 ===================
 - 2018 – 2019    Cell Biology and Physiology
